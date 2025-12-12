@@ -457,14 +457,14 @@ def test_filter():
 
 if __name__ == '__main__':
 
-    #print("Web testing script begin")
-    #test_menu_nav()
-    #test_menu_in_product()
-    #test_menu_accord()
-    #test_search()
+    print("Web testing script begin")
+    test_menu_nav()
+    test_menu_in_product()
+    test_menu_accord()
+    test_search()
     test_filter()
-    #test_sosmed()
-    #test_News()
+    test_sosmed()
+    test_News()
     print("web testing script ended")
     time.sleep(5)
     d.quit
