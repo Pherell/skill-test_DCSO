@@ -37,7 +37,10 @@ melakukan scrennshot tiap eksekusi untuk memvalidasi hasil
 
 ## Penjelasan Skenario negative (negative.py)
 
-menggunakan keyword yang tidak memiliki output apapun
-dan memuncul 
+menggunakan keyword yang tidak memiliki output apapun dan memunculkan
+``` No jobs found matching your search criteria. ```
+di command line dan melakukan screenshot tiap keyword dimasukkan
+
+## Hasil Screenshot berada di folder report
 
 
