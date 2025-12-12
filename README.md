@@ -35,3 +35,9 @@ melakukan scrennshot tiap eksekusi untuk memvalidasi hasil
 melakukan simulasi eksekusi link dan pengecekan hasil yang diharapkan terhadap url.
 melakukan scrennshot tiap eksekusi untuk memvalidasi hasil
 
+## Penjelasan Skenario negative (negative.py)
+
+menggunakan keyword yang tidak memiliki output apapun
+dan memuncul 
+
+
